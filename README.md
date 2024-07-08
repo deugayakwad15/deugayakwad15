@@ -37,3 +37,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deugayakwad15&show_icons=true&locale=en&layout=compact" alt="deugayakwad15" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deugayakwad15&show_icons=true&locale=en" alt="deugayakwad15" /></p>
+<img src="https://raw.githubusercontent.com/deugayakwad15/deugayakwad15/output/snake.svg" alt="Snake animation" />
+
+###
