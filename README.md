@@ -10,11 +10,11 @@
 
 - 🔭 I’m currently working on **Salesforce Development**
 
-- 🌱 I’m currently learning **Salesforce Admin and develpment**
+- 🌱 I’m currently learning **Salesforce Admin and development**
 
 - 👯Pronounce: **Coder,Leader and Kind Hearted**
 
-- 🤝 I’m looking for help with **OmniStudio**
+- 🤝 I’m looking for help with **OmniStudio Apex Integration**
 
 - 👨‍💻 All of my projects are available at [deugayakwad15](deugayakwad15)
 
