@@ -14,7 +14,7 @@
 
 - 👯Pronounce: **Coder,Leader and Kind Hearted**
 
-- 🤝 I’m looking for help with **AWS, Cloud Computing**
+- 🤝 I’m looking for help with **OmniStudio**
 
 - 👨‍💻 All of my projects are available at [deugayakwad15](deugayakwad15)
 
